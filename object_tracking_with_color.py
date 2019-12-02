@@ -1,8 +1,3 @@
-
-# USAGE
-# python object_movement.py --video object_tracking_example.mp4
-# python object_movement.py
-
 import imutils
 # import the necessary packages
 from collections import deque
